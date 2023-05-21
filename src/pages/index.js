@@ -24,8 +24,9 @@ function Home() {
         <FirstSection />
         <CtaSection />
         <ContactSection />
-        <Footer />
       </main>
+       <Footer />
+      
     </>
   );
 }
