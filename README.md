@@ -1,4 +1,4 @@
-# Responsive Website design template practice-1.
+# Responsive Band Site.
 
 ## Table of contents
 
@@ -34,7 +34,7 @@ Responsive website with hero animating image, header footer and three sections.
 
 ### Links
 
-- Live Site URL: [https://RWD-template-1.vercel.app/](https://RWD-template-1.vercel.app/)
+- Live Site URL: [https://responsive-band-site.vercel.app/](https://responsive-band-site.vercel.app/)
 
 ### my-process
 
